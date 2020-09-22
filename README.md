@@ -4,7 +4,7 @@
 * get the `en-US.json` file.
 * translate everything from `english` to your` language`.
 * contact `Mizen#0007` on Discord if you need help.
-* You need to enter the [discord server](https://discord.gg/rrrfabH)!
+* You need to join the [discord server](https://discord.gg/rrrfabH)!
 * Special role in the [discord server](https://discord.gg/rrrfabH)!
 
 ⚠️ **Please do not use any type of translator (for ex. google translate)**
