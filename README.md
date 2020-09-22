@@ -13,9 +13,6 @@
 
 ### • Every translator/contributor is listed in Sterlex's `contributors` command.
 
-## 🔗 DISCORD SERVER: https://discord.gg/rrrfabH
-## 🤖 STERLEX BOT: https://sterlex.tk/invite
-
 # 📌 [IT] Traduzione repo per Sterlex bot
 
 **Contribuire:**
@@ -31,5 +28,7 @@
 
 ### • Ogni traduttore / collaboratore verrà elencato nel comando `contributors` di Sterlex con Username + Tag e la lingua tradotta.
 
-## 🔗 SERVER DISCORD: https://discord.gg/rrrfabH
-## 🤖 STERLEX BOT: https://sterlex.tk/invita
+# 🔗 LINKS
+
+## 🔗 DISCORD SERVER: https://discord.gg/rrrfabH
+## 🤖 STERLEX BOT: https://sterlex.tk/invite
