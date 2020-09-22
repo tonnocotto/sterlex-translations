@@ -1,4 +1,4 @@
-# 📌 [EN-US] Translations repo for Sterlex bot
+# 📌 [EN-US] Translation repo for Sterlex bot
 
 **Contributing:**
 * get the `en-US.json` file.
