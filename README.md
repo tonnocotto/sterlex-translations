@@ -28,7 +28,6 @@
 
 ### • Ogni traduttore / collaboratore verrà elencato nel comando `contributors` di Sterlex con Username + Tag e la lingua tradotta.
 
-# 🔗 LINKS
-
+# 📌 LINKS STERLEX BOT & DISCORD SERVER
 ## 🔗 DISCORD SERVER: https://discord.gg/rrrfabH
 ## 🤖 STERLEX BOT: https://sterlex.tk/invite
