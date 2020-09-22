@@ -5,7 +5,7 @@
 * translate everything from `english` to your` language`.
 * contact `Mizen#0007` on Discord if you need help.
 * You need to enter the [discord server](https://sterlex.tk/support)!
-* Special role in the discord server!
+* Special role in the [discord server](https://sterlex.tk/support)!
 
 ⚠️ **Please do not use any type of translator (for ex. google translate)**
 
@@ -23,7 +23,7 @@
 * traduci tutto da `inglese` alla tua `lingua`.
 * contatta `Mizen#0007` su Discord se hai bisogno di aiuto.
 * Dovete entrare nel [server discord](https://sterlex.tk/support)!
-* Ruolo speciale nel server discord!
+* Ruolo speciale nel [server discord](https://sterlex.tk/support)!
 
 ⚠️ **Si prega di non utilizzare alcun tipo di traduttore (ad es. Google translate)**
 
