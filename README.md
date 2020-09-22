@@ -14,8 +14,6 @@
 ## 🔗 DISCORD SERVER: https://discord.gg/rrrfabH
 ## 🤖 STERLEX BOT: https://sterlex.tk/invite
 
-## ────────────────────────────────────────────────
-
 # 📌 [IT] Traduzione repo per Sterlex bot
 
 **Contribuire:**
