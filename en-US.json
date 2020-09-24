@@ -27,8 +27,20 @@
     "YES": "Yes",
     "NO": "No",
     "NONE": "None",
-
+    
+    "CMD_COOLDOWN": "cooldown activated, try again in",
     "TRANSLATION_FOOTER": "Thanks to all for contributing in the project!",
+
+    "PREMIUM_ENABLED": "`Premium` enabled for",
+    "PREMIUM_SERVER": "Premium for this server",
+    "PREMIUM_FEATURE": "Premium Features",
+    "PREMIUM_ACTIVATED": "Activated",
+    "PREMIUM_DISABLED": "Disabled",
+    "PREMIUM_PERK_1": "**Special role** in our [official discord server](https://discord.gg/rrrfabH)",
+    "PREMIUM_PERK_2": "Commands **without cooldown**",
+    "PREMIUM_PERK_3": "Premium activation in **3 servers**",
+    "PREMIUM_PERK_4": "**24/7** Support",
+    "PREMIUM_PAY": "If you want to buy the premium, join our [discord server](https://discord.gg/rrrfabH) and contact",
 
     "CMD_SETTINGS": "Settings",
     "CMD_MODERATION": "Moderation",
