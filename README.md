@@ -3,7 +3,7 @@
 #### 🤖 STERLEX BOT: https://sterlex.tk/invite
 #
 ### 👋 [EN] Translation Sterlex Bot
-### ⚠️ **Please do not use any type of translator (for ex. google translate)**
+#### ⚠️ **Please do not use any type of translator (for ex. google translate)**
 
 #### ***Contributing:***
 * Get the `en-US.json` file.
