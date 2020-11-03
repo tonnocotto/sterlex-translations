@@ -2,9 +2,8 @@
 ### 🔗 DISCORD SERVER: https://sterlex.tk/support
 ### 🤖 STERLEX BOT: https://sterlex.tk/invite
 #
-## 👋 [`EN`] Translation Sterlex Bot
-
-⚠️ **Please do not use any type of translator (for ex. google translate)**
+## 👋 [EN] Translation Sterlex Bot
+### ⚠️ **Please do not use any type of translator (for ex. google translate)**
 
 ### ***Contributing:***
 * Get the `en-US.json` file.
@@ -13,8 +12,9 @@
 
 ### *📜 Every translator/contributor is listed in Sterlex's `contributors` command.*
 #
-## 👋 [`IT`] Traduzione Sterlex Bot
-#### ⚠️ ***Si prega di non utilizzare alcun tipo di traduttore (ad es. Google translate).***
+
+## 👋 [IT] Traduzione Sterlex Bot
+### ⚠️ ***Si prega di non utilizzare alcun tipo di traduttore (ad es. Google translate).***
 
 ### ***Contribuire:***
 * Prendi il file `en-US.json`
