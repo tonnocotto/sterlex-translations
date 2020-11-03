@@ -10,7 +10,7 @@
 * Translate everything from `english` to your `language`.
 * Once translated, join our [discord server](https://discord.gg/rrrfabH) and send the file to the developer `Mizen#0007`.
 
-### *📜 Every translator/contributor is listed in Sterlex's `contributors` command.*
+#### *📜 Every translator/contributor is listed in Sterlex's `contributors` command.*
 #
 
 ### 👋 [IT] Traduzione Sterlex Bot
@@ -22,4 +22,4 @@
 * Contatta `Mizen#0007` su Discord se hai bisogno di aiuto.
 * Una volta tradotto entra nel nostro [server discord](https://discord.gg/rrrfabH) e invia il file al developer `Mizen#0007`.
 
-### *📜 Ogni traduttore / collaboratore verrà elencato nel comando `contributors` di Sterlex.*
+#### *📜 Ogni traduttore / collaboratore verrà elencato nel comando `contributors` di Sterlex.*
